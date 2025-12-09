@@ -93,7 +93,7 @@ FemmeWell adalah aplikasi booking klinik kecantikan yang memudahkan pengguna dal
 
 ## ScreenshotSemua Halaman
 ![Home](screenshoots/home.jpg)
-![Boking](screenshoots/Boking.jpg)
+![Boking](screenshoots/boking.jpg)
 ![Profile](screenshoots/profile.jpg)
 ![Kunjungan](screenshoots/kunjungan.jpg)
 ![Treatment](screenshoots/treatment.jpg)
